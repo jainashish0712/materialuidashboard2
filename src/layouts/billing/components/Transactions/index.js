@@ -88,7 +88,7 @@ function Transactions() {
           <Transaction
             color="success"
             icon="expand_less"
-            name="Creative Tim"
+            name="render com"
             description="26 March 2020, at 08:30 AM"
             value="+ $ 2,500"
           />
